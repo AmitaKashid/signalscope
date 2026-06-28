@@ -6,8 +6,7 @@ SignalScope is a production-style portfolio project for teams that need to conve
 
 It combines **LangGraph orchestration**, hybrid retrieval, deterministic policy enforcement, transparent ranking, local **Model Context Protocol** servers, evaluation harnesses, API contracts, a Next.js decision workspace, and GCP-oriented deployment infrastructure. It is intentionally designed as a **governed decision workflow**, not an unconstrained chatbot or automated publishing agent.
 
-> [!IMPORTANT]
-> **Demonstration repository only.** The project ships exclusively with a synthetic media catalog and mock editorial-policy rules. It contains no ZDF, broadcaster, customer, or copyrighted media assets. SignalScope does not publish, schedule, modify rights, or perform external actions.
+
 
 ---
 
